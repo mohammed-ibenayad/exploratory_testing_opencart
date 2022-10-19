@@ -9,8 +9,8 @@ If you're a tester and would like to develop your skills in exploratory testing 
 
 1. Read the Test Charter to figure out the different aspects you will need to focus on while testing and outputs you will need to provide.
 2. Report your encountered defect using the GitHub issues feature by clicking on create a new issue, and choosing the template **"Bug report for OpenCart report"**
-  - Report your test notes using the GitHub issues  feature  by clicking on create a new issue, and choosing the template **"Test notes for OpenCart report"**
+3. Report your test notes using the GitHub issues  feature  by clicking on create a new issue, and choosing the template **"Test notes for OpenCart report"**
 
-
+[GitHub Pages](https://pages.github.com/)
 
 > Happy exploratory testing!
