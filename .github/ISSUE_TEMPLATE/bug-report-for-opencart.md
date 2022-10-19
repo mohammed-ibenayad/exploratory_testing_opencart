@@ -7,6 +7,15 @@ assignees: mohammed-ibenayad
 
 ---
 
+** Bug area ** 
+Select one: 
+- Product research. 
+- Product info.
+- Shopping cart.
+- Checkout process.
+- Order status, cancel and return.
+- Creating and managing my account info.
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
