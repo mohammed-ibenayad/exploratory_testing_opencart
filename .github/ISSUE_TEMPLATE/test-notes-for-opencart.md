@@ -1,5 +1,5 @@
 ---
-name: Test notes for OpenCart report
+name: Test notes for OpenCart
 about: Share your testing notes
 title: Add a concise title of your test scenario
 labels: ''
