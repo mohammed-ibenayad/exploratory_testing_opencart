@@ -1,6 +1,6 @@
 # Exploratory Testing Charter
 > Simple example for an online shopping cart
-______
+__
 # 1. Purpose of this document      
 
 This document aims at defining the main aspects in guiding the exploratory testing activity of an online shopping cart for which no system specifications or test scripts exist. Having a defined testing activity scope will help in measuring achievements effectively and finishing the exploratory testing activity in a timeboxed fashion. 
@@ -57,9 +57,10 @@ We will be following a combination of the following test strategies identified a
    - …
    - 
 # 7. Tests output
-- **Data:** any data that was gathered during the test sessions, such as screen recordings, or screen shots. The path and/or concise description to this is also acceptable.
 
 - **Test notes:** Step by step “journal” of the exploratory tests. The format for this is a sentence describing what actions were taken when testing, followed by bullets to describe the observations and steps performed to complete the action described.
 
 - **Bugs:** what bugs were found during the exploratory test. The format is a sentence bug name, followed by a section titled: “Steps to Reproduce,” then bulleted steps, a “Expected Results:” section then an “Actual Results” section. Each bug should be numbered.
+
+:arrow_right: We invite you to use dedicated [GitHub Issues templates](https://github.com/mohammed-ibenayad/exploratory_testing_opencart/issues/new/choose) to log your bugs and test notes
 
