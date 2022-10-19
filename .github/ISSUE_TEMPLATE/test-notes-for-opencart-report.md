@@ -7,6 +7,12 @@ assignees: ''
 
 ---
 
+**Test type**
+Select one:
+- Functional
+- Usability
+- Security
+
 **Describe your test scenario**
 A clear and concise description of the test scenario you're trying to accomplish.
 
