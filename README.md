@@ -8,7 +8,7 @@ I have been myself playing multiple roles in this project including the role of 
 If you're a tester and would like to develop your skills in exploratory testing process, please follow the following steps:
 
 1. Read the [Test Charter](test_charter.md) to figure out the different aspects you will need to focus on while testing and outputs you will need to provide.
-2. Report your encountered defect using the GitHub issues feature by clicking on create a new issue, and choosing the template **"Bug report for OpenCart report"**
+2. Report your encountered defects using the GitHub issues feature by clicking on create a new issue, and choosing the template **"Bug report for OpenCart report"**
 3. Report your test notes using the GitHub issues  feature  by clicking on create a new issue, and choosing the template **"Test notes for OpenCart report"**
 
 :arrow_right: We invite you to use dedicated [GitHub Issues templates](https://github.com/mohammed-ibenayad/exploratory_testing_opencart/issues/new/choose) to log your bugs and test notes.
