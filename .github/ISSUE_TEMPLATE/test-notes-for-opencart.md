@@ -7,6 +7,15 @@ assignees: ''
 
 ---
 
+** Test area ** 
+Select one: 
+- Product research. 
+- Product info.
+- Shopping cart.
+- Checkout process.
+- Order status, cancel and return.
+- Creating and managing my account info.
+
 **Test type**
 Select one:
 - Functional
