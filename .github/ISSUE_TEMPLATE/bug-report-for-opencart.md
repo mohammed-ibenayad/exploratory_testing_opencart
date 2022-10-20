@@ -3,7 +3,7 @@ name: Bug report for OpenCart
 about: Create a report to help reproducing the bug easily
 title: AVOID generic bug titles, be SPECIFIC please!
 labels: bug
-assignees: mohammed-ibenayad
+assignees: ''
 
 ---
 
