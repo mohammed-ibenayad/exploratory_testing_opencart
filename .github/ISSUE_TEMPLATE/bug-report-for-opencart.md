@@ -7,7 +7,7 @@ assignees: mohammed-ibenayad
 
 ---
 
-** Bug area ** 
+**Bug area** 
 Select one: 
 - Product research. 
 - Product info.
