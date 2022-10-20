@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-** Test area ** 
+**Test area** 
 Select one: 
 - Product research. 
 - Product info.
