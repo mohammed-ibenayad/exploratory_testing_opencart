@@ -1,6 +1,6 @@
 # Exploratory Testing Charter
 > Simple example for an online shopping cart
-__
+
 # 1. Purpose of this document      
 
 This document aims at defining the main aspects in guiding the exploratory testing activity of an online shopping cart for which no system specifications or test scripts exist. Having a defined testing activity scope will help in measuring achievements effectively and finishing the exploratory testing activity in a timeboxed fashion. 
