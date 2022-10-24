@@ -9,7 +9,7 @@ assignees: ''
 
 **Bug area** 
 Select one: 
-- Product research. 
+- Product search. 
 - Product info.
 - Shopping cart.
 - Checkout process.
