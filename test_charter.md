@@ -25,7 +25,7 @@ The SUT will be an online shopping cart called OpenCart made available for pract
 
 
 # 4. Features to cover during the testing
-- [ ] Product research. 
+- [ ] Product search. 
 - [ ] Product info.
 - [ ] Shopping cart.
 - [ ] Checkout process.
